@@ -1,4 +1,4 @@
-# TalentChef POS
+# Portfolio Dront End Created with React Js
 
 ### Follow step by step:
 
